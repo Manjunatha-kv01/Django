@@ -95,6 +95,8 @@ Reason:
 * Right side panel
 * Click **Subscribe**
 
+  ![image alt](https://github.com/Manjunatha-kv01/Django/blob/5194ab20b1c9c8d960e50723cea739a5b5164164/image%20(3).png)
+
 ---
 
 ### Step 6: Comment on Issue
