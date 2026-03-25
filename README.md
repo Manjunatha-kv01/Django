@@ -17,17 +17,39 @@
 1. Click **Create Topic**
 2. Fill:
 
-Title:
-GSoC 2026 – Aspiring Contributor Seeking Guidance for Django Projects
+Title:GSoC 2026 – Aspiring Contributor Seeking Guidance for Django Projects
 
 Body:
-(copy your intro message)
+(
+Hi everyone,
+
+My name is Manjunatha K.V, and I am a Full Stack Developer with experience in Python, Django, and backend development.
+
+I am interested in contributing to Django for GSoC 2026, particularly in:
+- Playwright integration testing
+- Django ORM improvements
+- Type hinting enhancements
+
+I have experience working with:
+- Python, FastAPI, Django
+- REST APIs, Docker
+- SQL databases
+
+I would appreciate guidance on:
+1. Which project idea would be best to start with
+2. Beginner-friendly issues I can work on
+3. Any recommended resources or steps
+
+Looking forward to contributing and learning from the community.
+
+Thank you!)
 
 3. Category:
    Google Season of Code
 
 4. Click **Create Topic**
 
+![image alt](https://github.com/Manjunatha-kv01/Django/blob/fa2132f70522f3fb657fa2e1d02a6ad4e04c580e/image%20(2).png)
 ---
 
 ### Step 3: Engage Immediately (VERY IMPORTANT)
