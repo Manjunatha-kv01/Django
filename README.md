@@ -66,16 +66,15 @@ Hi, I am also interested in this project and currently exploring Playwright and 
 
 ## PHASE 2 — Choose Project (Your Focus)
 
-Choose ONLY this:
-
-Playwright integration testing for Django
+Choose ONLY this: Playwright integration testing for Django
 
 Reason:
 
 * Beginner friendly
 * High demand
 * Easier PRs
-
+  
+![image alt](https://github.com/Manjunatha-kv01/Django/blob/6777018d85efcb56ec8bd955ab05d324ca92fe61/WhatsApp%20Image%202026-03-25%20at%2012.00.40%20PM.jpeg)
 ---
 
 ## PHASE 3 — GitHub Contribution START
@@ -251,7 +250,7 @@ git push origin playwright-test-setup
 5. Run tests
 6. Convert 1 test
 7. Create PR
-
+![image alt](https://github.com/Manjunatha-kv01/Django/blob/6777018d85efcb56ec8bd955ab05d324ca92fe61/WhatsApp%20Image%202026-03-25%20at%2011.51.43%20AM.jpeg)
 ---
 
 ## DAILY EXECUTION PLAN
